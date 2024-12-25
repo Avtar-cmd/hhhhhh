@@ -13,12 +13,4 @@ this is code again by avtar
 
 
 
-<<<<<<< HEAD
 
-
-
-
-
-
-=======
->>>>>>> 6e4c55af88f618252823b7d450fe919e20a92259
